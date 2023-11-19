@@ -1,0 +1,44 @@
+
+
+This project is created for Spring Framework.
+
+Iteration	1:	
+		
+		Tightly coupled Java Code:
+			
+			GameRunner class
+			Game Class: Mario, Super Contra, Pacman
+
+Iteration	2:	
+		
+		Loose Coupling Java Code
+			
+			GameRunner class
+			Game Class: Mario, Super Contra, Pacman
+
+
+Iteration	3:	
+		
+		Loose Coupling using Spring
+			
+			GameRunner class
+			Game Class: Mario, Super Contra, Pacman
+
+
+We don't need Application.java file created by spring so I am deleting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
